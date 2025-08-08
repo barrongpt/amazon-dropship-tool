@@ -3,9 +3,9 @@
 // React web app with keyword search and image previews added
 
 import { useState } from 'react';
-import { Card, CardContent } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@/components/ui/select";
+import { Card, CardContent } from "../components/ui/card";
+import { Input } from "../components/ui/input";
+import { Select, ... } from "../components/ui/select";
 import { Button } from "@/components/ui/button";
 
 const mockData = [
