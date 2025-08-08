@@ -1,3 +1,5 @@
+"use client";
+
 // React web app with keyword search and image previews added
 
 import { useState } from 'react';
